@@ -22,8 +22,5 @@ public class ndBONUS_Main {
             }
             System.out.print("Sum is " + sum);
         }
-        else{
-            System.out.print("Null values");
-        }
     }
 }
