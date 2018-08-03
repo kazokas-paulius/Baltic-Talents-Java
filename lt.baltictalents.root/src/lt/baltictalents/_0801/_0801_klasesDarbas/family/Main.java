@@ -5,20 +5,21 @@ import static java.lang.String.valueOf;
 
 public class Main extends FamilyStats{
 
+    FamilyStats fs = new FamilyStats();
+
     public static void main(String[] args) {
+        System.out.println("Pirma seima \n");
         Father father1 = new Father("Antanas", 40);
         Mother mother1 = new Mother("Antanina", 39);
         Son son1 = new Son("Antonas", 20);
         Daughter daughter1 = new Daughter("Tania", 15);
         FamilyMember[] family1 = {father1, mother1, son1, daughter1};
-//        FamilyStats f1Size = new FamilyStats(family1.length);
-//        System.out.println("seimos dydis: " + String.valueOf(f1Size));
+
         for (FamilyMember f1 : family1) {
             System.out.println(f1.getName() + " " + f1.getAge());
         }
 
-
-        System.out.println("Teises:");
+        System.out.println("\nTeises:\n");
         System.out.println("Ar " + father1.getName() + " gali vairuoti masina: " + (father1.canDriveACar())
                 + "; ar gali vaziuoti dviraciu: " + father1.canRideABike() + ".");
 
@@ -29,8 +30,9 @@ public class Main extends FamilyStats{
                 + "; ar gali vaziuoti dviraciu: " + son1.canRideABike() + ".");
 
         System.out.println("Ar " + daughter1.getName() + " gali vairuoti masina: " + daughter1.canDriveACar()
-                + "; ar gali vaziuoti dviraciu: " + daughter1.canRideABike() + ".");
-        System.out.println("\n");
+                + "; ar gali vaziuoti dviraciu: " + daughter1.canRideABike() + ".\n");
+
+        System.out.println("Antra seima \n");
         Father father2 = new Father("Bronius", 50);
         Mother mother2 = new Mother("Bronislava", 45);
         Son son2 = new Son("Bartas", 15);
@@ -42,7 +44,7 @@ public class Main extends FamilyStats{
             System.out.println(f2.getName() + " " + f2.getAge());
         }
 
-        System.out.println("Teises:");
+        System.out.println("\nTeises:\n");
         System.out.println("Ar " + father2.getName() + " gali vairuoti masina: " + (father2.canDriveACar())
                 + "; ar gali vaziuoti dviraciu: " + father2.canRideABike() + ".");
 
@@ -50,7 +52,7 @@ public class Main extends FamilyStats{
                 + "; ar gali vaziuoti dviraciu: " + mother2.canRideABike() + ".");
 
         System.out.println("Ar " + son2.getName() + " gali vairuoti masina: " + son2.canDriveACar()
-                + "; ar gali vaziuoti dviraciu: " + son2.canRideABike() + ".");
+                + "; ar gali vaziuoti dviraciu: " + son2.canRideABike() + ".\n");
 
         System.out.println("family1 size: " + family1.length);
         System.out.println("family2 size: " + family2.length);
@@ -70,5 +72,8 @@ public class Main extends FamilyStats{
             }
         }
         System.out.println("Family2 drivers: " + driversCount2);
+
+
+
     }
 }
