@@ -38,6 +38,18 @@ public class FamilyStats {
         return oldestMemberAge;
     }
 
+    public String oldestMemberName(){
+        int oldestMemberIndex = 0;
+        int oldestMemberAge = fm[0].getAge();
+        for (int i = 1; i < fm.length; i++){
+            if (oldestMemberAge < fm[i].getAge()){
+                oldestMemberAge = fm[i].getAge();
+                oldestMemberIndex = i;
+            }
+        }
+        return fm[oldestMemberIndex].getName();
+    }
+
     public double averageAge() {
         double averageMember = 0.0;
         double suma = 0;
