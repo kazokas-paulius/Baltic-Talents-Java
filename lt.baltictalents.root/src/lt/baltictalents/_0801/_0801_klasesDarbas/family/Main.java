@@ -1,11 +1,6 @@
 package lt.baltictalents._0801._0801_klasesDarbas.family;
 
-
-import static java.lang.String.valueOf;
-
 public class Main extends FamilyStats{
-
-    FamilyStats fs = new FamilyStats();
 
     public static void main(String[] args) {
         System.out.println("Pirma seima \n");
@@ -54,26 +49,13 @@ public class Main extends FamilyStats{
         System.out.println("Ar " + son2.getName() + " gali vairuoti masina: " + son2.canDriveACar()
                 + "; ar gali vaziuoti dviraciu: " + son2.canRideABike() + ".\n");
 
-        System.out.println("family1 size: " + family1.length);
-        System.out.println("family2 size: " + family2.length);
-
-        int driversCount1 = 0;
-        for(FamilyMember f1Drivers : family1) {
-            if(f1Drivers.canDriveACar() == true){
-                driversCount1++;
-            }
-        }
-        System.out.println("Family1 drivers: " + driversCount1);
-
-        int driversCount2 = 0;
-        for(FamilyMember f2Drivers : family2) {
-            if(f2Drivers.canDriveACar() == true){
-                driversCount2++;
-            }
-        }
-        System.out.println("Family2 drivers: " + driversCount2);
-
-
-
+        FamilyStats fs1 = new FamilyStats(family1);
+        System.out.println("Pirmos seimos dydis: " + fs1.countFamilymembers() + "\n");
+        FamilyStats fs2 = new FamilyStats(family2);
+        System.out.println("Pirmos seimos dydis: " + fs2.countFamilymembers() + "\n");
+        System.out.println("Pirmos seimos nariai gali vairuoti viska " + fs1.countFamilyDrivers() + "\n");
+        System.out.println("Antros seimos nariai gali vairuoti viska " + fs2.countFamilyDrivers() + "\n");
+        System.out.println("Vyriausias seimos narys " + fs1.oldestMember() + "\n");
+        System.out.println("Vidutinis seimos amzius " + fs1.averageAge() + "\n");
     }
 }
