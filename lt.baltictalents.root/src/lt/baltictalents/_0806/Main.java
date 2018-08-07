@@ -6,23 +6,29 @@ public class Main extends Calc{
     public Main(Circle crcl) {
         super(crcl);
     }
-
     public Main(Triangle trngl) {
         super(trngl);
     }
 
     public static void main(String[] args){
-        DecimalFormat df = new DecimalFormat("#.00");
 
-        Circle c = new Circle(12.54);
-        Triangle t = new Triangle(14.5, 3.8, 7.4);
+        Circle c = new Circle(6.54);
+        Rectangle r = new Rectangle(8.2, 3.7);
+        Triangle t = new Triangle(4.1, 3.8, 6.2);
 
-        Calc clc = new Calc();
+        System.out.print("Circle Area: ");
+        ShapeUtils.printArea(c);
+        System.out.print("Circle Perimeter: ");
+        ShapeUtils.printPerimeter(c);
 
-        System.out.println("Calculations\n");
-        System.out.println("Circle area: " + df.format(clc.cArea(c)) + " cm\u00B2.");
-        System.out.println("Circle perimeter " + df.format(clc.cPerimeter(c)) + " cm." + "\n");
-        System.out.println("Triangle area: " + df.format(clc.tArea(t)) + " cm\u00B2.");
-        System.out.println("Triangle perimeter: " + df.format(clc.tPerimeter(t)) + " cm.");
+        System.out.print("\nRectangle Area: ");
+        ShapeUtils.printArea(r);
+        System.out.print("Rectangle Perimeter: ");
+        ShapeUtils.printPerimeter(r);
+
+        System.out.print("\nTriangle Area: ");
+        ShapeUtils.printArea(t);
+        System.out.print("Triangle Perimeter: ");
+        ShapeUtils.printPerimeter(t);
     }
 }

@@ -2,7 +2,7 @@ package lt.baltictalents._0806;
 
 public class Triangle implements Shape{
 
-    private double a, b, c;
+    private final double a, b, c;
 
     public Triangle(double a, double b, double c) {
         this.a = a;
@@ -14,24 +14,12 @@ public class Triangle implements Shape{
         return a;
     }
 
-    public void setA(double a) {
-        this.a = a;
-    }
-
     public double getB() {
         return b;
     }
 
-    public void setB(double b) {
-        this.b = b;
-    }
-
     public double getC() {
         return c;
-    }
-
-    public void setC(double c) {
-        this.c = c;
     }
 
     @Override
