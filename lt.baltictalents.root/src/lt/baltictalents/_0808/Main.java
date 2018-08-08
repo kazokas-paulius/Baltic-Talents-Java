@@ -23,6 +23,7 @@ public class Main {
             intkazkas.add(Integer.valueOf(s));
         }
 
+        System.out.println("Indeksai");
         System.out.println(intkazkas);
         System.out.println();
         List<Integer> intListkazkas = new ArrayList<>(intkazkas);
