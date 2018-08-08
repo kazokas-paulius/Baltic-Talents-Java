@@ -26,13 +26,4 @@ public class Employee implements Payment{
     public double amount() {
         return sumaE;
     }
-
-    @Override
-    public String toString() {
-        return "Employee{" +
-                "bankAccE=" + bankAccE +
-                ", ownerE='" + ownerE + '\'' +
-                ", sumaE=" + sumaE +
-                '}';
-    }
 }

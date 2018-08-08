@@ -26,13 +26,4 @@ public class Client implements Payment {
     public double amount() {
         return sumaC;
     }
-
-    @Override
-    public String toString() {
-        return "Client{" +
-                "bankAccC=" + bankAccC +
-                ", ownerC='" + ownerC + '\'' +
-                ", sumaC=" + sumaC +
-                '}';
-    }
 }
