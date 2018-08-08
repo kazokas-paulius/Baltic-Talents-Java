@@ -9,6 +9,7 @@ public class Main {
         Client cl1 = new Client(741852963, "UAB Misha", 750.75);
         Client cl2 = new Client(369258147, "UAB Natasha", 920.92);
 
+<<<<<<< HEAD
         Payment[] arrE = new Payment[4];
         arrE[0] = em1;
         arrE[1] = em2;
@@ -16,6 +17,13 @@ public class Main {
         arrE[3] = cl2;
 
         System.out.println(Arrays.toString(arrE));
+=======
+        //System.out.println("\n" + em1.toString());
+        //System.out.println(em1.toString() + "\n");
+
+        //System.out.println(cl1.toString());
+        //System.out.println(cl2.toString() + "\n");
+>>>>>>> master
 
 //        for(Payment i: arrE){
 //            System.out.println(i);
