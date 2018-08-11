@@ -41,9 +41,8 @@ class SortedCars {
         System.out.println(cars);
 
         System.out.println("\n\nCars ordered by car plate numbers");
-        InnerClassSortByCarNumbers asdasdasd = new InnerClassSortByCarNumbers();
-        asdasdasd.SortedPlateAlgo();
-
+        SortedCars.InnerClassSortByCarNumbers innerByCarNumbers = new SortedCars().new InnerClassSortByCarNumbers();
+        innerByCarNumbers.SortedPlateAlgorythm();
     }
 
     static class InnerClassSortByFirstnameLastChar {
@@ -68,9 +67,9 @@ class SortedCars {
         }
     }
 
-     public static class InnerClassSortByCarNumbers{
+     class InnerClassSortByCarNumbers{
 
-        public void SortedPlateAlgo() {
+        public void SortedPlateAlgorythm() {
             Owner owner = new Owner("fname", "lname");
             List<Car> cList = new ArrayList<>();
 
