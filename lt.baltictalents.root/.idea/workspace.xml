@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a0d104-cbbd-4ac6-b71e-24144a6fd89f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/OSType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByCarNumbers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByCarNumbers$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByCarNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByCarNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByFirstnameLastChar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByFirstnameLastChar$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByFirstnameLastChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars$InnerClassSortByFirstnameLastChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/SortedCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/SortedCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0809/_nd/_nd2/SortedCars.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,60 +25,48 @@
     <session id="757617106">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="12" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="169" />
+          <entry key="java" value="185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="169" />
+          <entry key="JAVA" value="185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="25851" />
+          <entry key="java" value="26941" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25851" />
+          <entry key="JAVA" value="26941" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/SortedCars.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -85,16 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Mother.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Father.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Son.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Daughter.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0802/Main.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/FamilyMember.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Dog.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Main.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0806/Stats.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0806/Shape.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/FamilyStats.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0806/Calcs.java" />
@@ -136,6 +119,16 @@
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/Owner.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/Car.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/SortedCars.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_1.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_2.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3_Main.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4_enum.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/OSType.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_51.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/peach.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_5.java" />
       </list>
     </option>
   </component>
@@ -153,8 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,41 +169,26 @@
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
-              <item name="_0809" type="462c0819:PsiDirectoryNode" />
+              <item name="_0730" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
-              <item name="_0809" type="462c0819:PsiDirectoryNode" />
-              <item name="_nd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
-              <item name="_0809" type="462c0819:PsiDirectoryNode" />
-              <item name="CarExsercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
-              <item name="_0809" type="462c0819:PsiDirectoryNode" />
-              <item name="Interface_Abstract_getMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="_0813" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534020074947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534155727328" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -228,78 +204,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortedCars (1)">
-    <configuration name="AnonymousClassSortByLastnameLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0809._nd._nd2.AnonymousClassSortByLastnameLength" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.baltictalents._0809._nd._nd2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedCars (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0809._nd._nd2.SortedCars" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.baltictalents._0809._nd._nd2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedCars$InnerClassSortByCarNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0809._nd._nd2.SortedCars$InnerClassSortByCarNumbers" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.baltictalents._0809._nd._nd2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedCars$InnerClassSortByFirstnameLastChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0809._nd._nd2.SortedCars$InnerClassSortByFirstnameLastChar" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.baltictalents._0809._nd._nd2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_nd1_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0809._nd._nd._nd1._nd1_Main" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.baltictalents._0809._nd._nd._nd1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.kd_5">
     <configuration name="kdConstructor" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lt.baltictalents._test.kdConstructor" />
       <module name="lt.baltictalents.root" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lt.baltictalents._test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kd_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0813.kd_1" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._0813.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kd_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0813.kd_2" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._0813.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kd_3_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0813.kd_3_Main" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._0813.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kd_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0813.kd_4" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._0813.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kd_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0813.kd_5" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._0813.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,19 +327,19 @@
       <item itemvalue="Application.nd1_Main" />
       <item itemvalue="Application.nd2_Main" />
       <item itemvalue="Application.ndBONUS_Main" />
-      <item itemvalue="Application._nd1_Main" />
-      <item itemvalue="Application.SortedCars (1)" />
-      <item itemvalue="Application.AnonymousClassSortByLastnameLength" />
-      <item itemvalue="Application.SortedCars$InnerClassSortByFirstnameLastChar" />
-      <item itemvalue="Application.SortedCars$InnerClassSortByCarNumbers" />
+      <item itemvalue="Application.kd_1" />
+      <item itemvalue="Application.kd_2" />
+      <item itemvalue="Application.kd_3_Main" />
+      <item itemvalue="Application.kd_4" />
+      <item itemvalue="Application.kd_5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedCars (1)" />
-        <item itemvalue="Application.SortedCars$InnerClassSortByFirstnameLastChar" />
-        <item itemvalue="Application.SortedCars$InnerClassSortByCarNumbers" />
-        <item itemvalue="Application.AnonymousClassSortByLastnameLength" />
-        <item itemvalue="Application._nd1_Main" />
+        <item itemvalue="Application.kd_5" />
+        <item itemvalue="Application.kd_4" />
+        <item itemvalue="Application.kd_3_Main" />
+        <item itemvalue="Application.kd_2" />
+        <item itemvalue="Application.kd_1" />
       </list>
     </recent_temporary>
   </component>
@@ -391,9 +367,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,91 +400,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_test/classMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0806/Calcs.java" />
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/FamilyMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0801/_0801_klasesDarbas/family/FamilyStats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0806/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0806/Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0806/CircleUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0806/ShapeUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -683,31 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/AnonymousClassSortByLastnameLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/CarsComparatorBySpeed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/Owner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -741,11 +610,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/SortedCars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="309">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/AnonymousClassSortByLastnameLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/CarsComparatorBySpeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4_enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/OSType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa8104.31815/spalvos/src/Color.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa8104.30212/spalvos/src/Fifth.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/peach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0730/nd1_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
