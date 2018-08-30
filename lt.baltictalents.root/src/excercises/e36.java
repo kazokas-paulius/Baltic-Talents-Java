@@ -9,14 +9,16 @@ import static java.util.stream.Collectors.joining;
 
 public class e36 {
     public static void main(String[] args) {
-        System.out.println(wordAppend("a", "b", "a"));
-        System.out.println(wordAppend("a", "b", "a", "c", "a", "d", "a"));
-        System.out.println(wordAppend("a", "", "a"));
+        System.out.println(wordAppend(new String[]{"a", "b", "a"}));
+        System.out.println(wordAppend(new String[]{"a", "b", "a", "c", "a", "d", "a"}));
+        System.out.println(wordAppend(new String[]{"a", "", "a"}));
     }
 
-    private static String wordAppend(String... strings){
-
-        long count = Arrays.stream(strings).filter(s -> s.equals("a")).count() / 2;
+    static String wordAppend(String[] strings) {
+        if (strings == null) {
+            return "";
+        }
+        long count = Arrays.stream(strings).filter(s -> s != null && s.equals("a")).count() / 2;
 //        String str = "";
 //        for(int i = 0; i < count; i++){
 //            str += "a";

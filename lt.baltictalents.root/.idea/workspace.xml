@@ -2,26 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a0d104-cbbd-4ac6-b71e-24144a6fd89f" name="Default Changelist" comment="_0823 nd">
-      <change afterPath="$PROJECT_DIR$/src/excercises/e19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercises/e9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0827/failas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excercises/e25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/excercises/e25Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/excercises/e33Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/excercises/e36Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/excercises/e8Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bt-pizza" beforeDir="false" afterPath="$PROJECT_DIR$/../bt-pizza" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0814/PizzeriaMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0816/_nd4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0816/_nd4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/PizzeriaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/PizzeriaMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/maisto_meniu/GerimuMeniu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/maisto_meniu/MaistoMeniu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lt.baltictalents.root.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lt.baltictalents.root.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercises/e33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercises/e36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercises/e8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/pizzeria_menus/MenuChoices.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/pizzeria_menus/MenuChoices.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,30 +30,34 @@
     <session id="757617106">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="50" />
-          <entry key="project.open.time.0" value="13" />
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.0" value="14" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="15" />
           <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bmp" value="1" />
+          <entry key="class" value="3" />
           <entry key="failas" value="1" />
-          <entry key="java" value="262" />
+          <entry key="java" value="278" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="3" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="262" />
+          <entry key="JAVA" value="278" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -65,13 +65,13 @@
         <counts>
           <entry key="dummy" value="56" />
           <entry key="failas" value="4" />
-          <entry key="java" value="38476" />
+          <entry key="java" value="39610" />
           <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="38476" />
+          <entry key="JAVA" value="39610" />
           <entry key="PLAIN_TEXT" value="102" />
         </counts>
       </usages-collector>
@@ -80,61 +80,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java">
+        <entry file="file://$PROJECT_DIR$/src/excercises/e25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e36.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e33.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e31.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e27.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="359">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,19 +92,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e37.java">
+        <entry file="file://$PROJECT_DIR$/test/excercises/e25Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e23.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+            <state relative-caret-position="400">
+              <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -168,6 +108,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -188,15 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4_enum.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/OSType.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_51.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/peach.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_5.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0814/Main.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0814/PizzeriaMain.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd1.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd2.java" />
         <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd3.java" />
@@ -239,6 +171,15 @@
         <option value="$PROJECT_DIR$/src/excercises/e4.java" />
         <option value="$PROJECT_DIR$/src/excercises/e27.java" />
         <option value="$PROJECT_DIR$/src/excercises/e37.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e8.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e8Test.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e33.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e33Test.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e36Test.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e36.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e25.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e25Test.java" />
       </list>
     </option>
   </component>
@@ -279,15 +220,13 @@
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
-              <item name="_0828" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="excercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,9 +235,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535539893384" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535625312153" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bt-pizza" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="excercises" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -312,61 +267,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.e37">
-    <configuration name="_ndMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0828._ndMain" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lt.baltictalents._0828.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.e27" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.e31" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.e37" />
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.e4" />
+  <component name="RunManager" selected="JUnit.e25Test.testNoYY">
+    <configuration name="e25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excercises.e25" />
       <module name="lt.baltictalents.root" />
       <extension name="coverage">
         <pattern>
@@ -430,24 +333,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="e25Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excercises" />
+      <option name="MAIN_CLASS_NAME" value="excercises.e25Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e25Test.testNoYY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excercises" />
+      <option name="MAIN_CLASS_NAME" value="excercises.e25Test" />
+      <option name="METHOD_NAME" value="testNoYY" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e33Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excercises" />
+      <option name="MAIN_CLASS_NAME" value="excercises.e33Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="e36Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="excercises" />
+      <option name="MAIN_CLASS_NAME" value="excercises.e36Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.kdConstructor" />
       <item itemvalue="Application.nd1_Main" />
       <item itemvalue="Application.nd2_Main" />
       <item itemvalue="Application.ndBONUS_Main" />
-      <item itemvalue="Application._ndMain (1)" />
-      <item itemvalue="Application.e31" />
-      <item itemvalue="Application.e4" />
-      <item itemvalue="Application.e27" />
-      <item itemvalue="Application.e37" />
+      <item itemvalue="JUnit.e33Test" />
+      <item itemvalue="JUnit.e36Test" />
+      <item itemvalue="Application.e25" />
+      <item itemvalue="JUnit.e25Test.testNoYY" />
+      <item itemvalue="JUnit.e25Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.e37" />
-        <item itemvalue="Application.e27" />
-        <item itemvalue="Application.e4" />
-        <item itemvalue="Application.e31" />
-        <item itemvalue="Application._ndMain (1)" />
+        <item itemvalue="JUnit.e25Test.testNoYY" />
+        <item itemvalue="JUnit.e25Test" />
+        <item itemvalue="Application.e25" />
+        <item itemvalue="JUnit.e33Test" />
+        <item itemvalue="JUnit.e36Test" />
       </list>
     </recent_temporary>
   </component>
@@ -500,6 +461,38 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 24m 12s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 24m 18s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 25m 21s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 27m 20s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 28m 22s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 29m 04s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 30m 41s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 32m 36s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 33m 06s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 33m 14s.xml">
+      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -513,7 +506,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -522,7 +515,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.34871244" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.34871244" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -553,25 +546,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="_0816 nd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_test/bdayChecker.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/cufqjdau.bmp" />
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_test/testasss.java" />
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0823/ExceptionsMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/PizzeriaMain.java" />
     <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/Sauce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -775,13 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -803,16 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/food.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -830,34 +787,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="280">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/excercises/e31.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -868,22 +838,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e27.java">
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/excercises/e8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/excercises/e36Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e37.java">
+    <entry file="file://$PROJECT_DIR$/test/excercises/e33Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="220">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e36.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/excercises/e25Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lt.baltictalents.root</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
