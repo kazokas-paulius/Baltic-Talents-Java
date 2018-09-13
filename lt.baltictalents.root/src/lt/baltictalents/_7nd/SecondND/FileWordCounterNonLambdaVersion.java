@@ -1,10 +1,10 @@
-package lt.baltictalents._7nd;
+package lt.baltictalents._7nd.SecondND;
 
 import java.io.*;
 import java.util.*;
 import java.util.Map.Entry;
 
-public class _0831 {
+public class FileWordCounterNonLambdaVersion {
     private final static String PATH = "resources/wiki";
     private static File wikiFile = new File(PATH);
 
