@@ -1,4 +1,4 @@
-package lt.baltictalents._7nd;
+package lt.baltictalents._7nd.FirstND;
 
 //        Duota /demo/19/automobilis?id=140
 //        Pasitikrinimui pasinaudokite https://regex101.com/
@@ -10,7 +10,7 @@ package lt.baltictalents._7nd;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class _0830 {
+public class URLChopper {
 
     public static String theString = "/demo/19/automobilis?id=140";
 
