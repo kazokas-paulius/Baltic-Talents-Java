@@ -21,7 +21,7 @@ public class FileWordCounter {
         Files.lines(path)
                 .map(line -> line.trim())
                 .filter(line -> line != null && !line.isEmpty())
-                .map(line -> Arrays.asList(line.split("[\\s,.()\"';]")))
+                .map(line -> Arrays.asList(line.split("([,.;:\"'-()\\s])")))
                 .forEach(list -> {
                     list.stream()
                             .map(String::trim)
