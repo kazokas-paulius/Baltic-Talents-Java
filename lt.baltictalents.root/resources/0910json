@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "success": true,
+  "message": "",
+  "message_code": 0,
+  "total": 1,
+  "data": [
+    {
+      "post_code": "03116",
+      "address": "Savanorių pr. 12",
+      "street": "Savanorių pr.",
+      "number": "12",
+      "city": "Vilnius",
+      "municipality": "Vilniaus m. sav.",
+      "post": "Vilniaus 9-asis paštas",
+      "mailbox": "",
+      "company": ""
+    }
+  ],
+  "page": {
+    "current": 1,
+    "total": 1
+  }
+}

@@ -12,7 +12,7 @@ public class _ndMain {
         Files.lines(p).map(l -> l.trim().split("[\\s]*,[\\s]*"))
                 .forEach(arr -> {
                     for (String s : arr) {
-                        System.out.println(s);
+                        System.out.println("|" + s + "|");
                     }
                 });
     }

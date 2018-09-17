@@ -56,7 +56,6 @@ public class e7 {
                 if (arr2 != null) {
                     for (int i = 0; i < arr2.length; i++) {
                         result2[i] = arr2[i];
-                        break;
                     }
                 }
                 return result2;

@@ -2,22 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a0d104-cbbd-4ac6-b71e-24144a6fd89f" name="Default Changelist" comment="_0823 nd">
-      <change afterPath="$PROJECT_DIR$/src/excercises/e25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/excercises/e25Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/excercises/e33Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/excercises/e36Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/excercises/e8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_databind_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/0910json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/filewriter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/wiki" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0910/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0832.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0833.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/excercises/e1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/excercises/e24Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bt-pizza" beforeDir="false" afterPath="$PROJECT_DIR$/../bt-pizza" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lt.baltictalents.root.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lt.baltictalents.root.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/excercises/e8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excercises/e33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excercises/e36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excercises/e8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0827/_ndMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_0827/_ndMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_test/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lt.baltictalents.root/lt/baltictalents/_test/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excercises/e7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercises/e7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/InvoiceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/InvoiceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/DataTime/DataTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/DataTime/DataTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/Food/Drink.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/Food/Drink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/Food/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/Food/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/Food/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/Food/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/PizzeriaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/PizzeriaMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/pizzeria_menus/MenuChoices.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/pizzeria_menus/MenuChoices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/read_txt/TxtReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/bt-pizza/lt/baltictalents/pizzeria/read_txt/TxtReader.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,60 +40,73 @@
     <session id="757617106">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="52" />
-          <entry key="project.open.time.0" value="14" />
+          <entry key="project.closed" value="77" />
+          <entry key="project.open.time.0" value="16" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="15" />
-          <entry key="project.open.time.6" value="8" />
-          <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="17" />
+          <entry key="project.open.time.6" value="19" />
+          <entry key="project.open.time.7" value="8" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="0910json" value="4" />
           <entry key="bmp" value="1" />
-          <entry key="class" value="3" />
+          <entry key="class" value="4" />
           <entry key="failas" value="1" />
-          <entry key="java" value="278" />
+          <entry key="filewriter" value="1" />
+          <entry key="java" value="446" />
           <entry key="txt" value="3" />
+          <entry key="wiki" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
+          <entry key="CLASS" value="4" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="278" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JAVA" value="446" />
+          <entry key="JSON" value="4" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="56" />
+          <entry key="0910json" value="173" />
+          <entry key="dummy" value="130" />
           <entry key="failas" value="4" />
-          <entry key="java" value="39610" />
-          <entry key="txt" value="42" />
+          <entry key="java" value="67577" />
+          <entry key="regexp" value="4" />
+          <entry key="txt" value="268" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39610" />
-          <entry key="PLAIN_TEXT" value="102" />
+          <entry key="JAVA" value="67577" />
+          <entry key="JSON" value="173" />
+          <entry key="PLAIN_TEXT" value="402" />
+          <entry key="RegExp" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/excercises/e25.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/InvoiceMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="710">
+              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,11 +114,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/excercises/e25Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/Invoice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+            <state relative-caret-position="261">
+              <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0833.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,8 +142,9 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,10 +152,17 @@
     <findStrings>
       <find>unl</find>
       <find>middle</find>
+      <find>Su</find>
+      <find>impl</find>
+      <find>2018-</find>
+      <find>&quot;</find>
+      <find>plusTwo</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\pauli\OneDrive\Desktop\Kraken\JAVA\Baltic-Talents-Java\lt.baltictalents.root\src\lt\baltictalents</dir>
       <dir>C:\Users\pauli\OneDrive\Desktop\Kraken\JAVA\Baltic-Talents-Java\lt.baltictalents.root\src</dir>
+      <dir>C:\Users\pauli\OneDrive\Desktop\Kraken\JAVA\Baltic-Talents-Java\lt.baltictalents.root\src\excercises</dir>
+      <dir>C:\Users\pauli\OneDrive\Desktop\Kraken\JAVA\Baltic-Talents-Java\lt.baltictalents.root</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -129,64 +172,226 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd1.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd2.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd3.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd4.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/bdayChecker.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd3.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd4.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/testasss.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0823/_nd1.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0823/ExceptionsMain.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0823/InvalidParamException.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0814/Sauce.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0814/PizzaMain.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0814/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0820/Emplyee.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0820/Employee.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0820/Salary.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Circle.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/TriangleCalcs.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/CircleCals.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/TriangleCalcs.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/CircleCalcs.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/RectangleCalcs.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/ShapeComparators.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9/e9.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9/e36.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9/e19.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9/e8.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9/e33.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e9/e23.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e23.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0827/failas" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e31.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e4.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e27.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e37.java" />
-        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e8.java" />
-        <option value="$PROJECT_DIR$/test/excercises/e8Test.java" />
-        <option value="$PROJECT_DIR$/src/excercises/e33.java" />
         <option value="$PROJECT_DIR$/test/excercises/e33Test.java" />
         <option value="$PROJECT_DIR$/test/excercises/e36Test.java" />
         <option value="$PROJECT_DIR$/src/excercises/e36.java" />
         <option value="$PROJECT_DIR$/src/excercises/e25.java" />
         <option value="$PROJECT_DIR$/test/excercises/e25Test.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java" />
+        <option value="$PROJECT_DIR$/src/testPlayground.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Pirmas_uzdavinys/_nd1.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_nd1.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/MyCalendar.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/Array.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0830.java" />
+        <option value="$PROJECT_DIR$/resources/wiki" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_test/test1.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0831.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0832.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0833.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e24.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e24Test.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e1.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e1Test.java" />
+        <option value="$PROJECT_DIR$/src/Json_nd/main.java" />
+        <option value="$PROJECT_DIR$/test/excercises/e7Test.java" />
+        <option value="$PROJECT_DIR$/resources/0910json" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0910/JsonProperty.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0910/main.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e2.java" />
+        <option value="$PROJECT_DIR$/src/thread.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e7.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e4.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java" />
+        <option value="$PROJECT_DIR$/src/excercises/e35.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Antras/Antras.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Antras/FileWordCounter.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/FirstND/_0830.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/FirstND/URLChopper.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SecondND/_0831.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SecondND/FileWordCounterNonLambdaVersion.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SecondND/FileWordCounter.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/GenericRepository.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/main.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/Employee.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/Container.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/Main.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/Main.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/EMployee.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/Employee.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/Salary.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/SalaryMain.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/Invoice.java" />
+        <option value="$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/InvoiceMain.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LintLintAndroid</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -197,8 +402,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,43 +412,88 @@
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="excercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
               <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="excercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
+              <item name="_7nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
+              <item name="_7nd" type="462c0819:PsiDirectoryNode" />
+              <item name="Fourth_and_FifthND" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
+              <item name="_7nd" type="462c0819:PsiDirectoryNode" />
+              <item name="Fourth_and_FifthND" type="462c0819:PsiDirectoryNode" />
+              <item name="invoice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
+              <item name="_7nd" type="462c0819:PsiDirectoryNode" />
+              <item name="SixthND" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lt.baltictalents.root" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baltictalents" type="462c0819:PsiDirectoryNode" />
+              <item name="_7nd" type="462c0819:PsiDirectoryNode" />
+              <item name="_0833.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="lt.baltictalents.root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535625312153" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/pauli/OneDrive/Desktop/Kraken/JAVA/Baltic-Talents-Java/lt.baltictalents.root/src/lt/baltictalents/_0813/kd_1.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537181343915" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bt-pizza" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Documents/Java Libs/jackson-databind-2.9.2.jar!/" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -253,6 +501,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lt.baltictalents._0910" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,13 +518,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.e25Test.testNoYY">
-    <configuration name="e25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excercises.e25" />
+  <component name="RunManager" selected="Application.InvoiceMain">
+    <configuration name="FileWordCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._7nd.SecondND.FileWordCounter" />
       <module name="lt.baltictalents.root" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excercises.*" />
+          <option name="PATTERN" value="lt.baltictalents._7nd.SecondND.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._7nd.Fourth_and_FifthND.invoice.InvoiceMain" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._7nd.Fourth_and_FifthND.invoice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._7nd.SixthND.Main" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._7nd.SixthND.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._7nd.Fourth_and_FifthND.salary.SalaryMain" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._7nd.Fourth_and_FifthND.salary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_ndMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.baltictalents._0829._ndMain" />
+      <module name="lt.baltictalents.root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.baltictalents._0829.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,82 +636,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="e25Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excercises" />
-      <option name="MAIN_CLASS_NAME" value="excercises.e25Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e25Test.testNoYY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excercises" />
-      <option name="MAIN_CLASS_NAME" value="excercises.e25Test" />
-      <option name="METHOD_NAME" value="testNoYY" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e33Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excercises" />
-      <option name="MAIN_CLASS_NAME" value="excercises.e33Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="e36Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lt.baltictalents.root" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="excercises" />
-      <option name="MAIN_CLASS_NAME" value="excercises.e36Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.kdConstructor" />
       <item itemvalue="Application.nd1_Main" />
       <item itemvalue="Application.nd2_Main" />
       <item itemvalue="Application.ndBONUS_Main" />
-      <item itemvalue="JUnit.e33Test" />
-      <item itemvalue="JUnit.e36Test" />
-      <item itemvalue="Application.e25" />
-      <item itemvalue="JUnit.e25Test.testNoYY" />
-      <item itemvalue="JUnit.e25Test" />
+      <item itemvalue="Application._ndMain (2)" />
+      <item itemvalue="Application.FileWordCounter" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SalaryMain" />
+      <item itemvalue="Application.InvoiceMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.e25Test.testNoYY" />
-        <item itemvalue="JUnit.e25Test" />
-        <item itemvalue="Application.e25" />
-        <item itemvalue="JUnit.e33Test" />
-        <item itemvalue="JUnit.e36Test" />
+        <item itemvalue="Application.InvoiceMain" />
+        <item itemvalue="Application.SalaryMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FileWordCounter" />
+        <item itemvalue="Application._ndMain (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -458,39 +703,144 @@
       <option name="project" value="LOCAL" />
       <updated>1535320536886</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="kd_0830 unit tests">
+      <created>1535625365990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535625365990</updated>
+    </task>
+    <task id="LOCAL-00007" summary="_0829 nd">
+      <created>1535981472828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535981472828</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2/7">
+      <created>1536059785635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536059785635</updated>
+    </task>
+    <task id="LOCAL-00009" summary="_0831 nd">
+      <created>1536308159662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308159662</updated>
+    </task>
+    <task id="LOCAL-00010" summary="e7 + uniTest">
+      <created>1536583960627</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1536583960627</updated>
+    </task>
+    <task id="LOCAL-00011" summary="e35">
+      <created>1536742801735</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1536742801735</updated>
+    </task>
+    <task id="LOCAL-00012" summary="e2">
+      <created>1536748876223</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1536748876223</updated>
+    </task>
+    <task id="LOCAL-00013" summary="e24">
+      <created>1536748900893</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1536748900893</updated>
+    </task>
+    <task id="LOCAL-00014" summary="e1">
+      <created>1536754077478</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1536754077478</updated>
+    </task>
+    <task id="LOCAL-00015" summary="File Reader and Word Counter">
+      <created>1536835227427</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1536835227427</updated>
+    </task>
+    <task id="LOCAL-00016" summary="URL Regex Chopper">
+      <created>1536835495258</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1536835495258</updated>
+    </task>
+    <task id="LOCAL-00017" summary="File Reader and Word Counter non Lambda Version">
+      <created>1536835763773</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1536835763773</updated>
+    </task>
+    <task id="LOCAL-00018" summary="File Reader and Word Counter Regex change">
+      <created>1536838817560</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1536838817560</updated>
+    </task>
+    <task id="LOCAL-00019" summary="sixth homework">
+      <created>1537176529329</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1537176529330</updated>
+    </task>
+    <task id="LOCAL-00020" summary="4 ir 5 nd">
+      <created>1537181306235</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1537181306235</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 24m 12s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 24m 37s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 24m 18s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 24m 56s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 25m 21s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 26m 51s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 27m 20s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 28m 04s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 28m 22s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 28m 23s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 29m 04s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 28m 35s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 30m 41s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 28m 47s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 32m 36s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 29m 03s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 33m 06s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test_testPlusTwo - 2018.09.10 at 15h 51m 22s.xml">
+      <configuration name="e7Test.testPlusTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="e25Test_testNoYY - 2018.08.30 at 13h 33m 14s.xml">
-      <configuration name="e25Test.testNoYY" configurationId="JUnit" />
+    <history-entry file="e7Test - 2018.09.10 at 15h 51m 37s.xml">
+      <configuration name="e7Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="3">
@@ -504,9 +854,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22707888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,15 +864,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.34871244" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.4055794" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3969957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32939914" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32939914" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.32832617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -531,7 +880,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -543,374 +892,411 @@
     <MESSAGE value="_0823 nd" />
     <MESSAGE value="_0821 kd for/while -&gt; lambda" />
     <MESSAGE value="_0816 nd" />
-    <option name="LAST_COMMIT_MESSAGE" value="_0816 nd" />
+    <MESSAGE value="kd_0830 unit tests" />
+    <MESSAGE value="_0829 nd" />
+    <MESSAGE value="2/7" />
+    <MESSAGE value="_0831 nd" />
+    <MESSAGE value="e7 + uniTest" />
+    <MESSAGE value="e35" />
+    <MESSAGE value="e2" />
+    <MESSAGE value="e24" />
+    <MESSAGE value="e1" />
+    <MESSAGE value="File Reader and Word Counter" />
+    <MESSAGE value="URL Regex Chopper" />
+    <MESSAGE value="File Reader and Word Counter non Lambda Version" />
+    <MESSAGE value="File Reader and Word Counter Regex change" />
+    <MESSAGE value="sixth homework" />
+    <MESSAGE value="4 ir 5 nd" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 ir 5 nd" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/Sauce.java">
+    <entry file="file://$PROJECT_DIR$/src/excercises/e24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/PizzaMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_3_Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/OSType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd1/_nd1_Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="116">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/AnonymousClassSortByLastnameLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0820/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0820/Salary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0823/InvalidParamException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/ShapeComparators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/TriangleCalcs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/CircleCalcs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/Calcs/RectangleCalcs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/CarExsercise/SortedCars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0808/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/_nd3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0807/kd_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/food.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0827/failas">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/excercises/e4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="232">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/excercises/e8Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/excercises/e36Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/excercises/e33Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/excercises/e36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="2378">
+          <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/excercises/e25.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="319">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excercises/e35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/excercises/e25Test.java">
+    <entry file="file://$PROJECT_DIR$/src/excercises/e7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+        <state relative-caret-position="826">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0730/ndBONUS_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0730/nd2_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0730/nd1_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0802/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0806/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0807/kd_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0807/_nd2_Payment/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0808/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0808/nd_0808/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd1/_nd1_Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/_nd/_nd2/SortedCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/CarExsercise/SortedCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0809/Interface_Abstract_getMethods/AnonymousClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0813/kd_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0910/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0814/PizzaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0816/Shapes/ShapeComparators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0820/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0821/_kd4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0823/ExceptionsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/_7nd/Antras.java" />
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/FirstND/URLChopper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="1067" column="31" selection-start-line="1067" selection-start-column="31" selection-end-line="1067" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/SecondND/FileWordCounterNonLambdaVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/SecondND/FileWordCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0829/_ndMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0832.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0827/_ndMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_0828/_ndMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/generics/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/SixthND/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10643">
+          <caret line="390" column="25" selection-start-line="390" selection-start-column="25" selection-end-line="390" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/salary/SalaryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/InvoiceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/Fourth_and_FifthND/invoice/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/baltictalents/_7nd/_0833.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -977,6 +1363,18 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jackson-databind-2.9.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

@@ -1,7 +1,8 @@
-package lt.baltictalents._test;
+package lt.baltictalents._7nd;
 
-class test1 {
+public class _0832{
     public static void main(String[] args) {
 
     }
 }
+
