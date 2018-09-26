@@ -1,0 +1,7 @@
+Mall
+
+id|int(10)|not null
+sector_name|varchar(50)|not null
+isMeat|tinyint(1)| |
+
+primary key(id)
